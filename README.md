@@ -1,5 +1,10 @@
 <h1 align="center"> 👋 &nbsp; Hi everyone, I'm Nicolas </h1>
-<h3 align="center">I'm a French Team Lead SOC in a public company :man_technologist::lock: </h3>
+<h3 align="center">I'm a French Team Lead SOC in a public company </h3>
+
+## 🤝 &nbsp;If you want to connect :
+
+<a href="https://www.linkedin.com/in/nicolasdutto/"><img align="left" img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nicolas Dutto | LinkedIn"/></a>
+<a href="https://twitter.com/_ShomKaR"><img align="left" img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Nicolas Dutto | Twitter"/></a>
 
 <!--
 **ShomKaR/shomkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
