@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center"> 👋 &nbsp; Hi everyone, I'm Nicolas </h1>
+<h3 align="center">I'm a French Team Lead SOC in a public company :man_technologist::lock: </h3>
 
 <!--
 **ShomKaR/shomkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
