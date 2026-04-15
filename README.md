@@ -1,5 +1,5 @@
-<h1 align="center"> 👋 &nbsp; Hi everyone, I'm Nicolas </h1>
-<h3 align="center">I'm a French Team Lead SOC in a public company </h3>
+<h1 align="center"> 👋 &nbsp; Hi everyone,\n Nicolas here </h1>
+<h3 align="center">I'm a French Team Lead SOC in a French public company </h3>
 
 ## 🤝 &nbsp;If you want to connect :
 
