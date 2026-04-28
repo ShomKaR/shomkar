@@ -1,6 +1,13 @@
 <h1 align="center"> 👋 &nbsp;Hi everyone, Nicolas here </h1>
 <h3 align="center">I'm a French Team Lead SOC in a French public company </h3>
 
+<p align="center">
+  <img
+    alt="Typing intro"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=4000&pause=900&center=true&vCenter=true&width=600&height=100&lines=SOC+Analyst+%7C+Detection+Engineer+%7C+Threat+Hunter"
+  />
+</p>
+
 ## 🤝 &nbsp;If you want to connect :
 
 <a href="https://www.linkedin.com/in/nicolasdutto/"><img align="left" img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nicolas Dutto | LinkedIn"/></a>
