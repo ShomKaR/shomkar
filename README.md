@@ -1,12 +1,15 @@
-<h1 align="center"> 👋 &nbsp;Hi everyone, Nicolas here </h1>
-<h3 align="center">I'm a French Team Lead SOC in a French public company </h3>
-
-<h3 align="center">
+<p align="center">
+  <img
+    alt="ShomKaR header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:43cea2,100:185a9d&text=👋Hi%20everyone,%20ShomKaR%20here&textBg=false&animation=scaleIn&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=55"
+  />
+</p>
+<p align="center">
   <img
     alt="Typing intro"
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=5000&pause=900&center=true&vCenter=true&width=600&height=100&lines=SOC+Analyst+%7C+Detection+Engineer+%7C+Threat+Hunter"
   />
-</h3>
+</p>
 
 ## 🤝 &nbsp;If you want to connect :
 
