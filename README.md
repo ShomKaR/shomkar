@@ -7,7 +7,7 @@
 <p align="center">
   <img
     alt="Typing intro"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=5000&pause=900&center=true&vCenter=true&width=600&height=50&lines=SOC+Analyst+%7C+Detection+Engineer+%7C+Threat+Hunter"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=5000&pause=900&center=true&vCenter=true&width=700&height=50&lines=SOC+Analyst+%7C+Detection+Engineer+%7C+Threat+Hunter"
   />
 </p>
 
